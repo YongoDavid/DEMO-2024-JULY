@@ -7,3 +7,4 @@ Today didnt really go as planned but i just have to keep going.
 Nothing good comes EASY!
 
 July-02
+time for some night time workings.
