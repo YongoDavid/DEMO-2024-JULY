@@ -25,3 +25,4 @@ i also have to figure out what is wrong with My User app project and why i keep 
 Lastly i will also be making some corrects to myy SQLite project that i submited for a peer review.
 
 July-06
+Another day another W.
