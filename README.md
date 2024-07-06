@@ -26,3 +26,4 @@ Lastly i will also be making some corrects to myy SQLite project that i submited
 
 July-06
 Another day another W.
+lets Sew some more and keep the fire burning.
