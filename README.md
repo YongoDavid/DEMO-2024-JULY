@@ -28,3 +28,5 @@ July-06
 Another day another W.
 lets Sew some more and keep the fire burning.
 User App project still giving me a hard time (very sad).
+
+July-07
