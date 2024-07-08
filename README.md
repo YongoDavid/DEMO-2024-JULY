@@ -35,6 +35,8 @@ just reflect and get refulled and motivated for the new week.
 
 JULY-08
 New day , new grind.
-Time to prepare for the next week and all its task
+Time to prepare for the next week and all its task.
+I still need to figure out why my userApp is not working.
+
 
 
