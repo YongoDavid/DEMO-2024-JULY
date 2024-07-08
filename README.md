@@ -35,4 +35,6 @@ just reflect and get refulled and motivated for the new week.
 
 JULY-08
 New day , new grind.
+Time to prepare for the next week and all its task
+
 
