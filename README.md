@@ -33,3 +33,4 @@ July-07
 New day , today is sundayy i dont really do much on sundays.
 just reflect and get refulled and motivated for the new week.
 
+JULY-08
