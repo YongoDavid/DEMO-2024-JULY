@@ -33,7 +33,7 @@ July-07
 New day , today is sundayy i dont really do much on sundays.
 just reflect and get refulled and motivated for the new week.
 
-JULY-08
+July-8
 New day , new grind.
 Time to prepare for the next week and all its task.
 I still need to figure out why my userApp is not working.
