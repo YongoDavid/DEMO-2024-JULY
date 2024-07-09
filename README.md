@@ -40,4 +40,6 @@ I still need to figure out why my userApp is not working.
 I might start myBase camp project , if user app is still giving me issues
 
 July-9
-User App is making progress now , i am veryy happy
+User App is making progress now , i am veryy happy.
+i still need to make some more improvement and hopefully User App will be complete by this week.
+
