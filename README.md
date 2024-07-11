@@ -47,3 +47,6 @@ July-10
 Aother day to work some more.
 i need to break down the problem thats not making User App.
 After breaking the probelms down , then ii solve then little by little.
+
+July-11
+
