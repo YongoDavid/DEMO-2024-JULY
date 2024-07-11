@@ -52,4 +52,6 @@ July-11
 Qwasar User app has been completed 100%.
 i have submitted it and it has passed peer review.
 Now to start a new project.
-Befoore i start i need to doo some research on Rails because this will be my first time using this wen frame work for Ruby.
+Before i start i need to doo some research on Rails because this will be my first time using this wen frame work for Ruby.
+Research will make me adapt and have a good understanding before starting.
+
