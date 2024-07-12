@@ -55,3 +55,4 @@ Now to start a new project.
 Before i start i need to doo some research on Rails because this will be my first time using this wen frame work for Ruby.
 Research will make me adapt and have a good understanding before starting.
 
+July-12
