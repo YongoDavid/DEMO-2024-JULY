@@ -58,3 +58,5 @@ Research will make me adapt and have a good understanding before starting.
 July-12
 Another day another nigiht drillings.
 Still doing some research for basecamp1 project.
+My system storage is full and it has not allowed me be as productive this week.
+
