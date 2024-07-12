@@ -56,4 +56,5 @@ Before i start i need to doo some research on Rails because this will be my firs
 Research will make me adapt and have a good understanding before starting.
 
 July-12
+Another day another nigiht drillings.
 Still doing some research for basecamp1 project.
