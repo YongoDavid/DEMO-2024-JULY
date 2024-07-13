@@ -60,3 +60,6 @@ Another day another nigiht drillings.
 Still doing some research for basecamp1 project.
 My system storage is full and it has not allowed me be as productive this week.
 i will fix this system data issues right now and try to clear out somethings to fee up more system space.
+
+July-13
+
