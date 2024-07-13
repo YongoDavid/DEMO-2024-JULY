@@ -62,4 +62,4 @@ My system storage is full and it has not allowed me be as productive this week.
 i will fix this system data issues right now and try to clear out somethings to fee up more system space.
 
 July-13
-
+I am sooo annoyed , my system data has been taking too much of my space and because of that i cant code with VS code.
