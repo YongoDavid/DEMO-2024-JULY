@@ -66,4 +66,4 @@ I am sooo annoyed , my system data has been taking too much of my space and beca
 i have tried deleting thing but still the system data part of my storage keeps eating up the space.
 i have been using (code sand box ) the online compiler but its just sooo slow.
 I am way behind in my REACT practice project and i am just very pissed off.
-
+I am just going to go back to my Qwasar projects.
