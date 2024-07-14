@@ -68,5 +68,5 @@ i have been using (code sand box ) the online compiler but its just sooo slow.
 I am way behind in my REACT practice project and i am just very pissed off.
 I am just going to go back to my Qwasar projects.
 
-Julyy-14
-
+July-14
+Today is sunday , i didnt do much , but i still put some work in , not just as hard as i do during the week.
