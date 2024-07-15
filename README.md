@@ -74,3 +74,4 @@ i sttill need to figure out this system data takking up sooo much storage , i do
 Finally been able to figure out the system data storage issue.
 Now i have created over 19gb of space.
 Lets goooo!!!!.
+New week and i am active , ready to put in more works this new week.
