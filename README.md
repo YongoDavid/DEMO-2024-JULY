@@ -86,3 +86,4 @@ Letsss go!!.
 July-17
 Another day , another life.
 i need to pull basecamp on to my laptop to continue working on it.
+i have not uploaded any new project in a while i need to do that as well  
