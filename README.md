@@ -89,4 +89,4 @@ i need to pull basecamp on to my laptop to continue working on it.
 i have not uploaded any new project in a while i need to do that as well.
 
 July-18
-
+New day , new grind.
