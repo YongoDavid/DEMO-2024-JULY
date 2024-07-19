@@ -93,4 +93,6 @@ New day , new grind.
 Time to upload more qwasar projects to github.
 
 July-19
+Another day another grind.
+Adding more projects to github.
 
