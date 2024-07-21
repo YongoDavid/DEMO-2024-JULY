@@ -102,3 +102,4 @@ i also need to start switching all my normal HTML and CSS and jacascript project
 i have already srarted with the glowing cosmetics website.
 
 July-21
+1 have cloned my_Basecamp1 project and i will start fully by monday.
