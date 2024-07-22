@@ -108,3 +108,4 @@ Not doing much work today.
 
 July-22
 Just started some REACT projects on qwasar.
+they are out of what i have done before but i am sure the experience will be worth it.
