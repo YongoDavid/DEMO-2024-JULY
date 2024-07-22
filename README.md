@@ -105,3 +105,6 @@ July-21
 1 have cloned my_Basecamp1 project and i will start fully by monday.
 I still need to be working on more of my REACT projects.
 Not doing much work today.
+
+July-22
+
