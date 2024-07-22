@@ -107,4 +107,4 @@ I still need to be working on more of my REACT projects.
 Not doing much work today.
 
 July-22
-
+Just started some REACT projects on qwasar.
