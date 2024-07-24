@@ -115,3 +115,4 @@ i will be switching between it and the react projects.
 July-24
 Sadly i missed an upload yesterday.
 i really just forgot to push some code.
+Basecamp project directory is now ready to go, i will start working on base camp now.
