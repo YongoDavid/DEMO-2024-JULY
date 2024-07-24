@@ -111,3 +111,5 @@ Just started some REACT projects on qwasar.
 they are out of what i have done before but i am sure the experience will be worth it.
 Also still working on mybasecamp project.
 i will be switching between it and the react projects.
+
+July-24
