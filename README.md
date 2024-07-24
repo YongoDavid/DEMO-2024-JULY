@@ -113,3 +113,4 @@ Also still working on mybasecamp project.
 i will be switching between it and the react projects.
 
 July-24
+Sadly i missed an upload yesterday.
