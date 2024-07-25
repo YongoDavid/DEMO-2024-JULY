@@ -119,5 +119,6 @@ Basecamp project directory is now ready to go, i will start working on base camp
 Also i will stll be working on some Qwasar REACT projects on the side.
 
 July-25
-Bas camp project still in progress.
+New day new grind
+Basecamp1 project still in progress.
 REACT projects are also going well , and smooth.
