@@ -117,3 +117,6 @@ Sadly i missed an upload yesterday.
 i really just forgot to push some code.
 Basecamp project directory is now ready to go, i will start working on base camp now.
 Also i will stll be working on some Qwasar REACT projects on the side.
+
+July-25
+
