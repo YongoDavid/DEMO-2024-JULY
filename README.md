@@ -125,3 +125,4 @@ REACT projects are also going well , and smooth.
 
 July-26
 i still need to figure out some issues i am having with the Basecamp project.
+REACT mini exercises that i am working on is going well soo far.
