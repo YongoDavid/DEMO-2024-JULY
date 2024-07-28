@@ -130,4 +130,7 @@ REACT mini exercises that i am working on is going well soo far.
 July-27
 Crazy day i forgot to upload.
 
+July-28
+
+
 
