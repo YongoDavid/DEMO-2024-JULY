@@ -135,5 +135,7 @@ Sunday , chill days
 
 July-29
 New week new grind.
+i need to go deeper in learning REACT.
+
 
 
