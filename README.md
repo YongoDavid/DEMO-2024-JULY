@@ -131,6 +131,6 @@ July-27
 Crazy day i forgot to upload.
 
 July-28
-
+Sunday , chill days 
 
 
