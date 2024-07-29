@@ -134,6 +134,6 @@ July-28
 Sunday , chill days 
 
 July-29
-
+New week new grind.
 
 
