@@ -147,4 +147,6 @@ Sooo lets see how it goes.
 
 July-31
 Last day of july , new day new grind.
+Rounding up Bootcamp REACjs today on Qwasar
+
 
