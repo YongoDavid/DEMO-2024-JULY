@@ -149,6 +149,8 @@ July-31
 Last day of july , new day new grind.
 Rounding up Bootcamp REACjs today on Qwasar
 been a crazy month , but i keep waking up soo i have to keep going!!.
+See you next month David!
+
 
 
 
