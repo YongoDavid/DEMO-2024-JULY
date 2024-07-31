@@ -146,5 +146,5 @@ and ii still have a project to complete in REACT.
 Sooo lets see how it goes.
 
 July-31
-
+Last day of july , new day new grind.
 
